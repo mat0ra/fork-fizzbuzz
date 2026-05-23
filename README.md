@@ -20,5 +20,5 @@
 2. **ファイルのステージング：** `git add fizzbuzz.js README.md`
 3. **ローカルコミット：** `git commit -m "feat: FizzBuzzプログラムとREADMEの初期追加"`
 4. **メインブランチの設定：** `git branch -M main`
-5. **リモートリポジトリの紐付け：** `git remote add origin [リポジトリのURL]`
+5. **リモートリポジトリの紐付け：** `git remote add origin https://github.com/mat0ra/fork-fizzbuzz.git`
 6. **リモートへのプッシュ：** `git push -u origin main`
